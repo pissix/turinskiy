@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#eef2ff"/>
+  <circle cx="400" cy="170" r="82" fill="#4f46e5"/>
+  <path d="M360 170l28 28 58-62" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#1e293b">Git branches</text>
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#475569">Учебный проект · Туринский Руслан</text>
+</svg>
